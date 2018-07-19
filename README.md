@@ -1,4 +1,4 @@
-# Thorlabs TDC_WinForm_Example
+# Thorlabs TDC_WinForm_Low Level Communication Protocol
 
 Low Level Communication Protocol
 
